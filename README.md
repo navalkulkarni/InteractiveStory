@@ -14,3 +14,6 @@ I learned about following things while designing the app:
 5.	ImageView Widget
 6.	ScrollView Widget
 7.	EditText Widget
+
+# Video Walkthrough
+<a href="https://imgur.com/KOYNSdQ"><img src="https://i.imgur.com/KOYNSdQ.gif" title="source: imgur.com" width="300" height ="500" /></a>
